@@ -14,7 +14,11 @@ to run just open `index.html`. checkout two different versions by un/commenting 
 
 in this version, the edges are sharper and the colors in the areas around points are more saturated. the downside is that the colors don't blend very well - the resulting color looks "dirty".
 
+![one over](one-over.png)
+
 
 ### `main-subtract.js`
 
 in this version the transitions are very smooth. the colors in areas between points are not dirty at all. the downside (?) is that around each point the colors somewhat differ from the point's color (they are not as saturated with the picked color).
+
+![subtract](subtract.png)
